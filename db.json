@@ -68,7 +68,7 @@
     {
       "id": 1,
       "name": "Sandwich de jamón y queso",
-      "price": 1000,
+      "price": 10,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
@@ -76,7 +76,7 @@
     {
       "id": 2,
       "name": "Café americano",
-      "price": 500,
+      "price": 5,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
@@ -84,9 +84,81 @@
     {
       "id": 3,
       "name": "Agua 500ml",
-      "price": 500,
+      "price": 5,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
       "type": "Almuerzo",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 4,
+      "name": "Hamburguesa Simple",
+      "price": 10,
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "type": "Almuerzo",
+      "dateEntry": "2022-03-05 15:14:11"
+    },
+    {
+      "id": 5,
+      "name": "Hamburguesa Doble",
+      "price": 15,
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "type": "Almuerzo",
+      "dateEntry": "2022-03-05 15:14:12"
+    },
+    {
+      "id": 6,
+      "name": "Papas Fritas",
+      "price": 5,
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "type": "Almuerzo",
+      "dateEntry": "2022-03-05 15:14:14"
+    },
+    {
+      "id": 7,
+      "name": "Aros de Cebolla",
+      "price": 5,
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "type": "Almuerzo",
+      "dateEntry": "2022-03-05 15:14:15"
+    },
+    {
+      "id": 8,
+      "name": "Agua 750ml",
+      "price": 5,
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "type": "Almuerzo",
+      "dateEntry": "2022-03-05 15:14:17"
+    },
+    {
+      "id": 9,
+      "name": "Bebida / Gaseosa 500ml",
+      "price": 7,
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "type": "Almuerzo",
+      "dateEntry": "2022-03-05 15:14:18"
+    },
+    {
+      "id": 10,
+      "name": "Bebida / Gaseosa 750ml",
+      "price": 7,
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "type": "Almuerzo",
+      "dateEntry": "2022-03-05 15:14:19"
+    },
+    {
+      "id": 11,
+      "name": "Café con leche",
+      "price": 7,
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+      "type": "Desayuno",
+      "dateEntry": "2022-03-05 15:14:14"
+    },
+    {
+      "id": 12,
+      "name": "Jugo de fruta natural",
+      "price": 7,
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+      "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     }
   ],
@@ -102,6 +174,12 @@
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "admin",
       "id": 2
+    },
+    {
+      "email": "adri@gmail.com",
+      "password": "$2a$10$amsTannXOsXgcL/bciK9zeStSMS2.N0C9a/FmrSST6NK1xsHBcgHC",
+      "role": "waiter",
+      "id": 3
     }
   ]
 }
